@@ -1,1 +1,35 @@
-
+:root {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color:#24364a; background:#fff;}
+* {box-sizing:border-box;}
+body {margin:0; background:#fff;}
+.router {max-width:760px; margin:0 auto; padding:18px 18px 22px;}
+.draft-note {background:#fff7e7; color:#765114; border:1px solid #ecd8a9; border-radius:5px; padding:9px 12px; font-size:12px; margin-bottom:16px;}
+.intro h2 {font-size:23px; line-height:1.25; color:#0b4a7d; margin:0 0 7px; font-weight:700;}
+.intro p {margin:0 0 19px; line-height:1.5; font-size:14px;}
+.chooser {display:grid; grid-template-columns:1fr 1fr; gap:14px;}
+.field label {display:block; font-weight:650; font-size:13px; margin-bottom:7px;}
+.field select {display:block; width:100%; padding:11px 34px 11px 12px; min-height:43px; border:1px solid #aab9c8; border-radius:5px; background:#fff; color:#24364a; font:inherit; font-size:14px;}
+.field select:disabled {background:#f3f5f7; color:#687789;}
+.field select:focus-visible, .button:focus-visible, .contact a:focus-visible {outline:3px solid #5fa9df; outline-offset:2px;}
+.result {margin-top:18px; padding:17px 18px; border:1px solid #d4e0e9; border-radius:7px; background:#f3f7fa;}
+.result h3 {font-size:16px; margin:0 0 8px; color:#0b4a7d;}
+.result p {font-size:14px; line-height:1.55; margin:0 0 13px; white-space:pre-line;}
+.result .agency {font-weight:600; font-size:13px; color:#45566a; margin-bottom:8px;}
+.contact {display:flex; align-items:center; flex-wrap:wrap; gap:10px; font-size:14px; font-weight:650;}
+.contact a {color:#0b4a7d; text-decoration:underline; text-underline-offset:2px;}
+.contact .separator {color:#98a4b2;}
+.button {display:inline-flex; justify-content:center; align-items:center; gap:8px; text-align:center; min-height:42px; padding:11px 17px; border-radius:5px; text-decoration:none; font-weight:650; font-size:14px;}
+.button-primary {background:#0b4a7d; color:#fff;}
+.button-primary:hover {background:#073b64;}
+.button-secondary {color:#0b4a7d; background:#fff; border:1px solid #0b4a7d; white-space:nowrap;}
+.button-secondary:hover {background:#edf5fb;}
+.direct {margin-top:20px; border-top:1px solid #dce3e9; padding-top:19px; display:flex; align-items:center; justify-content:space-between; gap:18px;}
+.direct h3 {font-size:15px; margin:0 0 5px;}
+.direct p {font-size:13px; color:#566578; line-height:1.45; margin:0;}
+.error {color:#8a2d2d; font-size:14px;}
+@media(max-width:590px) {
+ .router {padding:14px 13px 20px;}
+ .intro h2 {font-size:21px;}
+ .chooser {grid-template-columns:1fr; gap:13px;}
+ .direct {align-items:stretch; flex-direction:column; gap:12px;}
+ .button-secondary {white-space:normal;}
+}
