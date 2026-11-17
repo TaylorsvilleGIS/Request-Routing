@@ -1,1 +1,486 @@
-
+{
+  "version": "draft-2026-11",
+  "approved": false,
+  "requests": [
+    {
+      "category": "Animal",
+      "type": "Dangerous Animal",
+      "agency": "Taylorsville-West Valley City Animal Services",
+      "routing": "external",
+      "message": "Thank you for your request. Animal Services in Taylorsville are handled by Taylorsville-West Valley City Animal Services.",
+      "website": "https://www.wvc-ut.gov/government/department_list/animal_services/index.php#acc_0_panel_6",
+      "phone": "801-965-5800"
+    },
+    {
+      "category": "Animal",
+      "type": "Dead Animal",
+      "agency": "Taylorsville-West Valley City Animal Services",
+      "routing": "external",
+      "message": "Thank you for your request. Animal Services in Taylorsville are handled by Taylorsville-West Valley City Animal Services.",
+      "website": "https://www.wvc-ut.gov/government/department_list/animal_services/index.php#acc_0_panel_7",
+      "phone": "801-965-5800"
+    },
+    {
+      "category": "Animal",
+      "type": "Pest Infestation",
+      "agency": "Taylorsville-West Valley City Animal Services",
+      "routing": "external",
+      "message": "Thank you for your request. Animal Services in Taylorsville are handled by Taylorsville-West Valley City Animal Services.",
+      "website": "https://www.wvc-ut.gov/government/department_list/animal_services/index.php#acc_0_panel_8",
+      "phone": "801-965-5800"
+    },
+    {
+      "category": "Animal",
+      "type": "Rodent Activity",
+      "agency": "Taylorsville-West Valley City Animal Services",
+      "routing": "external",
+      "message": "Thank you for your request. Animal Services in Taylorsville are handled by Taylorsville-West Valley City Animal Services.",
+      "website": "https://www.wvc-ut.gov/government/department_list/animal_services/index.php#acc_0_panel_9",
+      "phone": "801-965-5800"
+    },
+    {
+      "category": "Animal",
+      "type": "Stray Animal",
+      "agency": "Taylorsville-West Valley City Animal Services",
+      "routing": "external",
+      "message": "Thank you for your request. Animal Services in Taylorsville are handled by Taylorsville-West Valley City Animal Services.",
+      "website": "https://www.wvc-ut.gov/government/department_list/animal_services/index.php#acc_0_panel_10",
+      "phone": "801-965-5800"
+    },
+    {
+      "category": "Animal",
+      "type": "Other",
+      "agency": "Taylorsville-West Valley City Animal Services",
+      "routing": "external",
+      "message": "Thank you for your request. Animal Services in Taylorsville are handled by Taylorsville-West Valley City Animal Services.",
+      "website": "https://www.wvc-ut.gov/government/department_list/animal_services/index.php#acc_0_panel_11",
+      "phone": "801-965-5800"
+    },
+    {
+      "category": "Blight",
+      "type": "Abandoned Vehicle",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Blight",
+      "type": "Dilapidated Building",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Blight",
+      "type": "Excessive Noise",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Blight",
+      "type": "Graffiti",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Blight",
+      "type": "Illegal Dumping",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Blight",
+      "type": "Tall Grass or Weeds",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Blight",
+      "type": "Vacant Building",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Blight",
+      "type": "Other",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Drug Paraphernalia",
+      "type": "Needles",
+      "agency": "PD Non-Emergency",
+      "routing": "external",
+      "message": "Thank you for your request, if this is an emergency please call 911. Any dangerous or drug-related items should be reported to the Taylorsville Police Department.",
+      "website": "https://www.taylorsvilleut.gov/services/tvpd",
+      "phone": "801-840-4000"
+    },
+    {
+      "category": "Drug Paraphernalia",
+      "type": "Pipes",
+      "agency": "PD Non-Emergency",
+      "routing": "external",
+      "message": "Thank you for your request, if this is an emergency please call 911. Any dangerous or drug-related items should be reported to the Taylorsville Police Department.",
+      "website": "https://www.taylorsvilleut.gov/services/tvpd",
+      "phone": "801-840-4000"
+    },
+    {
+      "category": "Drug Paraphernalia",
+      "type": "Tin Foil",
+      "agency": "PD Non-Emergency",
+      "routing": "external",
+      "message": "Thank you for your request, if this is an emergency please call 911. Any dangerous or drug-related items should be reported to the Taylorsville Police Department.",
+      "website": "https://www.taylorsvilleut.gov/services/tvpd",
+      "phone": "801-840-4000"
+    },
+    {
+      "category": "Drug Paraphernalia",
+      "type": "Spoons",
+      "agency": "PD Non-Emergency",
+      "routing": "external",
+      "message": "Thank you for your request, if this is an emergency please call 911. Any dangerous or drug-related items should be reported to the Taylorsville Police Department.",
+      "website": "https://www.taylorsvilleut.gov/services/tvpd",
+      "phone": "801-840-4000"
+    },
+    {
+      "category": "Drug Paraphernalia",
+      "type": "Bags",
+      "agency": "PD Non-Emergency",
+      "routing": "external",
+      "message": "Thank you for your request, if this is an emergency please call 911. Any dangerous or drug-related items should be reported to the Taylorsville Police Department.",
+      "website": "https://www.taylorsvilleut.gov/services/tvpd",
+      "phone": "801-840-4000"
+    },
+    {
+      "category": "Drug Paraphernalia",
+      "type": "Other",
+      "agency": "PD Non-Emergency",
+      "routing": "external",
+      "message": "Thank you for your request, if this is an emergency please call 911. Any dangerous or drug-related items should be reported to the Taylorsville Police Department.",
+      "website": "https://www.taylorsvilleut.gov/services/tvpd",
+      "phone": "801-840-4000"
+    },
+    {
+      "category": "Health",
+      "type": "Drinking Water or Well",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    },
+    {
+      "category": "Health",
+      "type": "Homeless Individual or Encampment",
+      "agency": "PD Non-Emergency",
+      "routing": "external",
+      "message": "Thank you for your request, if this is an emergency please call 911. Homeless-related concerns should be reported to the Taylorsville Police Department.",
+      "website": "https://www.taylorsvilleut.gov/services/tvpd",
+      "phone": "801-840-4000"
+    },
+    {
+      "category": "Health",
+      "type": "Illegal Dumping in Waterway",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    },
+    {
+      "category": "Health",
+      "type": "Leaking or Failing Septic",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Land Use",
+      "type": "Business in Residential Area",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Land Use",
+      "type": "Fireworks",
+      "agency": "UFA",
+      "routing": "external",
+      "message": "Thank you for your request, if this is an emergency please call 911. Any firework questions or concerns should be directed to United Fire Authority.",
+      "website": "https://unifiedfireut.gov/comments/",
+      "phone": "801-743-7200"
+    },
+    {
+      "category": "Land Use",
+      "type": "Illegal Parking",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Land Use",
+      "type": "Illegal Sign",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Park",
+      "type": "Blocked or Damaged Trail",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Park",
+      "type": "Damaged Equipment",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Park",
+      "type": "Damaged or Missing Sign",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Park",
+      "type": "Overflowing Trash/Dumpster",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Road",
+      "type": "Damaged Curb or Gutter",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Road",
+      "type": "Traffic Sign Issue",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Road",
+      "type": "Streetlight Issue",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Road",
+      "type": "Sidewalk Issue",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Road",
+      "type": "Traffic Signal Issue",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Road",
+      "type": "Pothole",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Snow/Ice",
+      "type": "Hydrant Not Cleared",
+      "agency": "Salt Lake County",
+      "routing": "external",
+      "message": "Thank you for your request. All winter public works operations in Taylorsville are handled by Salt Lake County Public Works.",
+      "website": "https://www.saltlakecounty.gov/operations/report-a-problem/",
+      "phone": "385-468-6101"
+    },
+    {
+      "category": "Snow/Ice",
+      "type": "Road Not Cleared",
+      "agency": "Salt Lake County",
+      "routing": "external",
+      "message": "Thank you for your request. All winter public works operations in Taylorsville are handled by Salt Lake County Public Works.",
+      "website": "https://www.saltlakecounty.gov/operations/report-a-problem/",
+      "phone": "385-468-6101"
+    },
+    {
+      "category": "Snow/Ice",
+      "type": "Salt or Sand Required",
+      "agency": "Salt Lake County",
+      "routing": "external",
+      "message": "Thank you for your request. All winter public works operations in Taylorsville are handled by Salt Lake County Public Works.",
+      "website": "https://www.saltlakecounty.gov/operations/report-a-problem/",
+      "phone": "385-468-6101"
+    },
+    {
+      "category": "Snow/Ice",
+      "type": "Sidewalk Not Cleared",
+      "agency": "Salt Lake County",
+      "routing": "external",
+      "message": "Thank you for your request. All winter public works operations in Taylorsville are handled by Salt Lake County Public Works.",
+      "website": "https://www.saltlakecounty.gov/operations/report-a-problem/",
+      "phone": "385-468-6101"
+    },
+    {
+      "category": "Snow/Ice",
+      "type": "Mailbox Damage",
+      "agency": "Salt Lake County",
+      "routing": "external",
+      "message": "Thank you for your request. All winter public works operations in Taylorsville are handled by Salt Lake County Public Works.",
+      "website": "https://www.saltlakecounty.gov/operations/report-a-problem/",
+      "phone": "385-468-6101"
+    },
+    {
+      "category": "Snow/Ice",
+      "type": "Other",
+      "agency": "Salt Lake County",
+      "routing": "external",
+      "message": "Thank you for your request. All winter public works operations in Taylorsville are handled by Salt Lake County Public Works.",
+      "website": "https://www.saltlakecounty.gov/operations/report-a-problem/",
+      "phone": "385-468-6101"
+    },
+    {
+      "category": "Trash",
+      "type": "Bin Replacement",
+      "agency": "Wasatch Front Waste & Recycling District",
+      "routing": "external",
+      "message": "Thank you for your request. Waste and recycling services in Taylorsville are provided by Wasatch Front Waste & Recycling District. Please submit this request directly to them.",
+      "website": "https://wfwrdutah.gov/",
+      "phone": "385-468-6325"
+    },
+    {
+      "category": "Trash",
+      "type": "Large Item Pickup",
+      "agency": "Wasatch Front Waste & Recycling District",
+      "routing": "external",
+      "message": "Thank you for your request. Waste and recycling services in Taylorsville are provided by Wasatch Front Waste & Recycling District. Please submit this request directly to them.",
+      "website": "https://wfwrdutah.gov/",
+      "phone": "385-468-6325"
+    },
+    {
+      "category": "Trash",
+      "type": "Overflowing Dumpster",
+      "agency": "Wasatch Front Waste & Recycling District",
+      "routing": "external",
+      "message": "Thank you for your request. Waste and recycling services in Taylorsville are provided by Wasatch Front Waste & Recycling District. Please submit this request directly to them.",
+      "website": "https://wfwrdutah.gov/",
+      "phone": "385-468-6325"
+    },
+    {
+      "category": "Trash",
+      "type": "Recycling Pickup",
+      "agency": "Wasatch Front Waste & Recycling District",
+      "routing": "external",
+      "message": "Thank you for your request. Waste and recycling services in Taylorsville are provided by Wasatch Front Waste & Recycling District. Please submit this request directly to them.",
+      "website": "https://wfwrdutah.gov/",
+      "phone": "385-468-6325"
+    },
+    {
+      "category": "Trash",
+      "type": "Trash Pickup",
+      "agency": "Wasatch Front Waste & Recycling District",
+      "routing": "external",
+      "message": "Thank you for your request. Waste and recycling services in Taylorsville are provided by Wasatch Front Waste & Recycling District. Please submit this request directly to them.",
+      "website": "https://wfwrdutah.gov/",
+      "phone": "385-468-6325"
+    },
+    {
+      "category": "Trash",
+      "type": "Yard Waste Pickup",
+      "agency": "Wasatch Front Waste & Recycling District",
+      "routing": "external",
+      "message": "Thank you for your request. Waste and recycling services in Taylorsville are provided by Wasatch Front Waste & Recycling District. Please submit this request directly to them.",
+      "website": "https://wfwrdutah.gov/",
+      "phone": "385-468-6325"
+    },
+    {
+      "category": "Trash",
+      "type": "Other",
+      "agency": "Wasatch Front Waste & Recycling District",
+      "routing": "external",
+      "message": "Thank you for your request. Waste and recycling services in Taylorsville are provided by Wasatch Front Waste & Recycling District. Please submit this request directly to them.",
+      "website": "https://wfwrdutah.gov/",
+      "phone": "385-468-6325"
+    },
+    {
+      "category": "Utility",
+      "type": "Damaged or Clogged Catch Basin",
+      "agency": "City",
+      "routing": "city"
+    },
+    {
+      "category": "Utility",
+      "type": "Damaged or Leaking Fire Hydrant",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    },
+    {
+      "category": "Utility",
+      "type": "Flooding or Standing Water",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    },
+    {
+      "category": "Utility",
+      "type": "Power Outage",
+      "agency": "Rocky Mountain Power",
+      "routing": "external",
+      "message": "Thank you for your request. To report a power outage, please contact Rocky Mountain Power.",
+      "website": "https://www.rockymountainpower.net/outages-safety.html",
+      "phone": "1-877-508-5088"
+    },
+    {
+      "category": "Utility",
+      "type": "Sewer Backup or Overflow",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    },
+    {
+      "category": "Utility",
+      "type": "Sewer Odor",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    },
+    {
+      "category": "Utility",
+      "type": "Water in Basement",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    },
+    {
+      "category": "Utility",
+      "type": "Water Leak",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    },
+    {
+      "category": "Utility",
+      "type": "Low Water Pressure",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    },
+    {
+      "category": "Utility",
+      "type": "Poor Water Quality",
+      "agency": "Taylorsville Bennion Improvement District",
+      "routing": "external",
+      "message": "Thank you for your request. Sewer and water utilities are serviced by Taylorsville-Bennion Improvement District.",
+      "website": "https://tbid.gov/",
+      "phone": "801-968-9081"
+    }
+  ]
+}
