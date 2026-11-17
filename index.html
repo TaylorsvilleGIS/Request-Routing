@@ -1,57 +1,39 @@
-
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Taylorsville Request Routing</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 24px;
-      background: #ffffff;
-      color: #263746;
-    }
-
-    .container {
-      max-width: 700px;
-      margin: auto;
-    }
-
-    h2 {
-      color: #0B4A7D;
-      margin-top: 0;
-    }
-
-    .test-box {
-      padding: 20px;
-      background: #f2f6fa;
-      border: 1px solid #d8e3ed;
-      border-radius: 6px;
-    }
-  </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Find the Responsible Agency | City of Taylorsville</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <h2>Find the Responsible Agency</h2>
-
-    <div class="test-box">
-      <p>
-        Not sure which agency handles your request?
-        Use this tool to find the appropriate contact information.
-      </p>
-
-      <p>
-        <strong>GitHub Pages embedding test</strong>
-      </p>
-
-      <p>
-        If you can see this message inside the Taylorsville
-        Citizen Request Center, the embedding test worked.
-      </p>
-    </div>
-  </div>
+  <main class="router" aria-labelledby="router-title">
+    <div class="draft-note" id="draft-note">Preview only — request options are pending City approval.</div>
+    <header class="intro">
+      <h2 id="router-title">Find the Responsible Agency</h2>
+      <p>Not sure who handles your issue? Choose a request category and type below to find the right place to report it.</p>
+    </header>
+    <section class="chooser" aria-label="Request lookup">
+      <div class="field">
+        <label for="category">Request Category</label>
+        <select id="category" disabled><option value="">Loading categories…</option></select>
+      </div>
+      <div class="field">
+        <label for="type">Request Type</label>
+        <select id="type" disabled><option value="">Select a category first</option></select>
+      </div>
+    </section>
+    <section id="result" class="result" aria-live="polite" hidden></section>
+    <p id="error" class="error" role="alert" hidden>We couldn't load the request options. Please try again later or use the City request form below.</p>
+    <section class="direct">
+      <div>
+        <h3>Already know your request is handled by the City?</h3>
+        <p>You can skip the dropdowns and go directly to the City's reporting application.</p>
+      </div>
+      <a class="button button-secondary" target="_blank" rel="noopener noreferrer" href="https://taylorsvilleut.maps.arcgis.com/apps/instant/reporter/index.html?appid=ad0a20f8399a4fdfa6d138653222adc7">Start a City Request <span aria-hidden="true">↗</span></a>
+    </section>
+  </main>
+  <script src="script.js" defer></script>
 </body>
 </html>
-
