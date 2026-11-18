@@ -41,5 +41,19 @@ body {margin:0; background:#fff;}
 
 .button:hover {
     background-color: #08365C;
+ /* Start a City Request button */
+.button-outline,
+.button-secondary {
+    background-color: #0B4A7D;
+    color: #FFFFFF;
+    border: 1px solid #0B4A7D;
+}
+
+/* Hover effect */
+.button-outline:hover,
+.button-secondary:hover {
+    background-color: #08365C;
+    color: #FFFFFF;
+}
     color: #FFFFFF;
 }
