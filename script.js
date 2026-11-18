@@ -60,7 +60,7 @@ function renderSelection() {
     const p = document.createElement("p");
 
     p.textContent =
-      "You can report this issue to the City. Continue to the reporting application to enter the location and details. You'll select the category and type again there.";
+      "You can report this issue to the City. Continue to the reporting application to enter the location and details. You'll confirm the category and type there.";
 
     resultEl.append(
       p,
